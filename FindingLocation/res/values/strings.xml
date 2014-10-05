@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FindingLocation</string>
+    <string name="hello_world">Hello world!kevin</string>
+    <string name="action_settings">Settings</string>
+    <string name="number">请输入手机号码</string>
+    <string name="btn">发送</string>
+    <string name="success">发送成功</string>
+
+</resources>
